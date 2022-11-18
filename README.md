@@ -1,6 +1,6 @@
 # Projeto de ponta aponta trilha ignite NLW Copa.
 
-## Tópicos
+## Tópicos do mobile
 * Setup do mobile
 * Configurando tela splash
 * Instalação NativeBase
