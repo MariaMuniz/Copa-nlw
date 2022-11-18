@@ -17,4 +17,26 @@
 * Criação das screes
 * Criação de variável de ambiente
 
-
+## Tópicos do web e back-end
+* Setup do backend 
+* Banco de dados Prisma
+* Fastify
+* Diagrama ERD
+* Next 
+* Estrutura banco de dados e relacionamento
+* Criando seed do banco de dados
+* Contagem de usuário 
+* Contagem de palpites
+* Layout da aplicação
+* Conexão com api
+* Criação do bolão
+* Criação de rotas
+* Criação de usuário acess token do google
+* Geração de jwt
+* Rota de perfil
+* Criação de bolão com usuario logado
+* Entrar em um bolão
+* Detalhes de um bolão
+* Listagem dos jogos de um bolão
+* Detalhes de bolão
+* Listagem dos jogos de um bolão
